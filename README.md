@@ -17,9 +17,10 @@
   - [Black Jack](https://macky-y.github.io/black-jack/)
   - [Basketball Score Counter](https://macky-y.github.io/basketball-score-counter/)
   - [Run Buddy](https://macky-y.github.io/run-buddy/)
+  - [Little Lemon](https://macky-y.github.io/little-lemon/)
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Mac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mac-arthur-yap-jr-1108b6226/
