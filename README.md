@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mac, an aspiring <a href="https://www.linkedin.com/in/mac-arthur-yap-jr-1108b6226/">IT Professional</a>☺</h1>
+<h1>Hi I'm Mac 👋, an aspiring <a href="https://www.linkedin.com/in/mac-arthur-yap-jr-1108b6226/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
