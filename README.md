@@ -12,10 +12,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>JavaScript</b>
+- <b>Web Development</b>
   - [Quote Generator](https://macky-y.github.io/quote-generator/)
   - [Black Jack](https://macky-y.github.io/black-jack/)
   - [Basketball Score Counter](https://macky-y.github.io/basketball-score-counter/)
+  - [Run Buddy](https://macky-y.github.io/run-buddy/)
 
 <h2>🤳Connect with me:</h2>
 
