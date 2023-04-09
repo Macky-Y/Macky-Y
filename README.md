@@ -1,7 +1,5 @@
 <h1>Hi I'm Mac 👋, an aspiring <a href="https://www.linkedin.com/in/mac-arthur-yap-jr-1108b6226/">IT Professional</a>☺</h1>
 
-<h2>💼 My <a href="">Portfolio 💼</h2>
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -20,6 +18,8 @@
   - [Basketball Score Counter](https://macky-y.github.io/basketball-score-counter/)
   - [Run Buddy](https://macky-y.github.io/run-buddy/)
   - [Little Lemon](https://macky-y.github.io/little-lemon/)
+
+<h2>💼 My <a href="">Portfolio 💼</h2>
 
 <h2>🤳Connect with me:</h2>
 
