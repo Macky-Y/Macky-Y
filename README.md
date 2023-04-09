@@ -10,6 +10,13 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>JavaScript</b>
+  - [Quote Generator](https://macky-y.github.io/quote-generator/)
+  - [Black Jack](https://macky-y.github.io/black-jack/)
+  - [Basketball Score Counter](https://macky-y.github.io/basketball-score-counter/)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
