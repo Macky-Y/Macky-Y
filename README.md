@@ -20,7 +20,8 @@
   - [Little Lemon](https://macky-y.github.io/little-lemon/)
 
 <h2>💼 My Portfolio 💼</h2>
-- <b><a href="">Mac's Portfolio</a></b>
+
+- <b> <a href="">Mac's Portfolio</a> </b>
 
 <h2>🤳Connect with me:</h2>
 
