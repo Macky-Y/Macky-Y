@@ -19,7 +19,8 @@
   - [Run Buddy](https://macky-y.github.io/run-buddy/)
   - [Little Lemon](https://macky-y.github.io/little-lemon/)
 
-<h2>💼 My <a href="">Portfolio 💼</h2>
+<h2>💼 My Portfolio 💼</h2>
+- <b><a href="">Mac's Portfolio</a></b>
 
 <h2>🤳Connect with me:</h2>
 
