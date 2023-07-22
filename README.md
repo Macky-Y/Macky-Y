@@ -4,7 +4,7 @@
 
 - <b> <a href="https://macky-y.github.io/macky-portfolio/">Mac's Portfolio</a> </b>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 IT and Cyber Security Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System) using Microsoft Azure</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Macky-Y/osticket-prereqs)
