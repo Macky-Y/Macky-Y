@@ -15,6 +15,14 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Macky-Y/azure-network-protocols)
 - <b>Cyber Security</b>
   - [Analyzing Network Traffic with TCPDump](https://github.com/Macky-Y/analyze-traffic-tcpdump)
+  - [Wireshark for Basic Network Security Analysis](https://github.com/Macky-Y/wireshark-network-security-analysis)
+  - [HackTheBox: Network Traffic Analysis](https://github.com/Macky-Y/htb-net-analysis)
+  - [HackTheBox: Active Directory](https://github.com/Macky-Y/htb-ad)
+  - [HackTheBox: Windows Event Logs & Finding Evil](https://github.com/Macky-Y/htb-win-event-logs)
+  - [TryHackMe: SOC Level 1](https://github.com/Macky-Y/thm-soc1)
+  - [TryHackMe: Cyber Defense](https://github.com/Macky-Y/thm-cyberdef)
+  - [TryHackMe: Linux Fundamentals](https://github.com/Macky-Y/thm-linux-fun)
+  - [TryHackMe: Windows Fundamentals](https://github.com/Macky-Y/thm-win-fun)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
