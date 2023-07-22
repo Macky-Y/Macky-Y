@@ -13,6 +13,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Macky-Y/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Macky-Y/azure-network-protocols)
+- <b>Cyber Security</b>
+  - [Analyzing Network Traffic with TCPDump](https://github.com/Macky-Y/analyze-traffic-tcpdump)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
