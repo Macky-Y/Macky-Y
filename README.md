@@ -15,6 +15,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Macky-Y/azure-network-protocols)
 - <b>Scripting / Coding Projects for Cybersecurity</b>
   - [Port Scanner Using Python3](https://github.com/Macky-Y/port_scanner)
+  - [Nmap Script Using Python3](https://github.com/Macky-Y/nmap)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
