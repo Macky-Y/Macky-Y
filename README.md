@@ -13,6 +13,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Macky-Y/configure-ad/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Macky-Y/azure-network-protocols)
+- <b>Forage Virtual Experience Write-up</b>
+  - [ANZ Virtual Experience](https://github.com/Macky-Y/forage-anz/blob/main/README.md)
 - <b>Scripting / Coding Projects for Cybersecurity</b>
   - [Port Scanner Using Python3](https://github.com/Macky-Y/port_scanner)
   - [Nmap Script Using Python3](https://github.com/Macky-Y/nmap)
